@@ -131,4 +131,5 @@ dmypy.json
 
 .idea/
 
-/wiki_scraper/articles.json
+# Output from the wikipedia scrape
+articles.json
